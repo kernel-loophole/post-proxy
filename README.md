@@ -32,8 +32,8 @@ Make sure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your_username/your_repository.git
-    cd your_repository
+    git clone https://github.com/kernel-loophole/post-proxy.git
+    cd post-proxy
     ```
 
 2. Set up your PostgreSQL database and create the necessary tables for user credentials.
