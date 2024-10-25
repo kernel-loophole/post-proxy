@@ -71,6 +71,7 @@ Make sure you have the following installed:
     "db_name": "database_name"
 }
 ```
+also you can use it using curl 
 ```curl
 curl -X POST http://127.0.0.1:8080/auth -H "Content-Type: application/json" -d '{"username": "postgres", "password": "new_password", "ip": "localhost", "db_host": "127.0.0.1", "db_user": "postgres", "db_password": "new_password", "db_name": "my_database"}'
 ```
