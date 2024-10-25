@@ -1,6 +1,6 @@
 # Rust PostgreSQL Proxy API
 
-This project provides a secure API for authenticating users and selectively exposing a PostgreSQL database. The API implements rate limiting and IP whitelisting to ensure that only authorized users can access their database schemas. It is designed for environments where exposing the database publicly is not an option, allowing users to opt into direct access.
+This project provides a secure API for authenticating users and selectively exposing a PostgreSQL database. The API implements rate limiting and IP whitelisting to ensure that only authorized users can access their database schemas. It is designed for environments where exposing the database publicly is not an option, allowing users to opt into direct access
 
 ## Table of Contents
 
